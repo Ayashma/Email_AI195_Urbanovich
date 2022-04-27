@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Email</string>
+    <string name="button_takePicture">Take a Shot</string>
+    <string name="button_sendEmail">Send Email</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">KPP_AI195_Urbanovich.jpg</string>
+    <string name="authorities">com.example.fileprovider</string>
+</resources>
